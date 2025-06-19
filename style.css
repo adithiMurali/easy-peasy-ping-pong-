@@ -1,0 +1,23 @@
+body {
+    background: #181818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#game-container {
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+    border-radius: 15px;
+    overflow: hidden;
+    background: #222;
+    padding: 20px;
+}
+
+canvas#pong {
+    display: block;
+    background: #222;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
