@@ -54,7 +54,7 @@ easy-peasy-ping-pong-/
 
 ## 🙋‍♀️ About Me
 
-I'm Adithi, a student and beginner developer exploring the world of web games and JavaScript.  
+I'm Adithi, a student and beginner developer. 
 [adithim2801@gmail.com](mailto:adithim2801@gmail.com)
 
 ## 📜 License
